@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "ceramospolisherfix",
+    "name": "CeramosPolisherFix",
+    "authors": [
+        "Dweomer"
+    ],
+    "description": "Patching a few errors until Ceramos is updated",
+    "version": "1.0.0",
+    "dependencies": {
+      "game": ""
+    }
+}
